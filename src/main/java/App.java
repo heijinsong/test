@@ -4,6 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.navercorp.song.dao.CustomerDAO;
 import com.navercorp.song.dto.Customer;
 
+// added by HA
 public class App 
 {
     public static void main( String[] args )
